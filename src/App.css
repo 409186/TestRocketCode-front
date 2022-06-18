@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  margin: 5%;
+  margin-bottom: 10px;
+}
+
+.fondo {
+  padding: 5px;
+  background-color: rgb(196, 192, 192);
+}
+
+.pink {
+  background-color: rgb(250, 54, 87);
+  margin-top: 15px;
+}
+
+.button {
+  margin-top: 30px;
+}
